@@ -132,6 +132,22 @@ Feel free to submit issues or pull requests to improve this script.
 
 **Note:** Always ensure you securely store your credentials and sensitive data when configuring backup scripts for critical files like `channel.backup`.
 
+## Support the Project
+
+If you found this guide helpful and would like to support the project, consider making a donation. Your contributions help maintain and improve this resource.
+
+### Donate via Bitcoin
+You can send Bitcoin directly to the following address:
+
+**`bc1qy0l39zl7spspzhsuv96c8axnvksypfh8ehvx3e`**
+
+### Donate via Lightning Network
+For faster and lower-fee donations, you can use the Lightning Network:
+
+**`asyscom@sats.mobi**
+
+Thank you for your support!
+
 ## License
 This project is licensed under the MIT License.
 
