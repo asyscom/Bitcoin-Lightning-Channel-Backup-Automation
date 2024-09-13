@@ -1,6 +1,6 @@
 # Bitcoin-Lightning-Channel-Backup-Automation
-This repository contains a script that automates the backup of the Bitcoin Lightning channel.backup file to a remote Nextcloud server using rclone. The script monitors changes to the backup file and uploads it to Nextcloud whenever it's updated.
-Certo! Ecco una **README** che puoi usare per il tuo repository GitHub. Anonimizza i dettagli relativi al tuo setup, ma include tutte le informazioni necessarie per chi vuole configurare un backup automatico del file `channel.backup` su un server Nextcloud tramite `rclone`.
+This repository contains a script that automates the backup of the Bitcoin Lightning channel.backup  file for Umbrel to a remote Nextcloud server using rclone. The script monitors changes to the backup file and uploads it to Nextcloud whenever it's updated.
+
 
 ---
 
