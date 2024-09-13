@@ -153,4 +153,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Con questa README, chiunque può configurare il monitoraggio e il backup automatico del file `channel.backup` su Nextcloud. Puoi adattarla alle tue preferenze e necessità.
